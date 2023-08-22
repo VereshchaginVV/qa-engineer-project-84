@@ -1,12 +1,10 @@
 ---
-# с помощью символа # создаются комментарии, чтобы что-то пояснить
-name: Vasiliy Vereshchagin # ваше имя
+name: Vasiliy Vereshchagin
 job: QA Engineer
 level: junior
 email: vkubik@rambler.ru
 description: |
   ---
-  Текст может быть написан в несколько абзацев
-skills: # список навыков в виде списка, напишите что-то свое
+  skills:
   - функциональное тестирование
   - написание багрепортов
