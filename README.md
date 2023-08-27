@@ -1,12 +1,13 @@
 ---
-name: Vasiliy Vereshchagin
+name: Vasiliy Vereshchagin # ваше имя
 job: QA Engineer
 level: junior
-email: vkubik@rambler.ru
-description: not
+email: ilona@hexlet.io
+description: |
+  not
 
 ---
 skills:
   - функциональное тестирование
-  - написание багрепортов
-  - английский язык A1
+  - написание багрепортов 
+  - английский язык C1
