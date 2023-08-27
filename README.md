@@ -2,7 +2,7 @@
 name: Vasiliy Vereshchagin # ваше имя
 job: QA Engineer
 level: junior
-email: ilona@hexlet.io
+email: vkubik@mail.ru
 description: |
   not
 
