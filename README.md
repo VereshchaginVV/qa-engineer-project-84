@@ -1,6 +1,5 @@
  ---
-# с помощью символа # создаются комментарии, чтобы что-то пояснить
-name: Vasiliy Vereshchagin  # ваше имя
+name: Vasiliy Vereshchagin
 job: QA Engineer
 level: junior
 email: vkubik@rambler.ru
