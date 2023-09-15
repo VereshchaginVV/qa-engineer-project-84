@@ -1,9 +1,12 @@
+---
 name: Vasiliy Vereshchagin
 job: QA Engineer
 level: junior
 email: vkubik@mail.ru
-description: ---
-Skills: 
- - функциональное тестирование
-  - написание багрепортов 
+description: |
+  Провел пол жизни на крайнем севере
+  
+skills: 
+  - функциональное тестирование
+  - написание багрепортов
   - английский язык A1
