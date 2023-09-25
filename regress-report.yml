@@ -23,7 +23,7 @@ bugreports:
       Google Chrome	115.0.5790.171 (Официальная сборка) (64 бит)
       ОС Windows 10 Pro   22H2;  Сборка ОС  19045.2006
     steps-to-reproduce: |
-      1. Пеереключаем язык на Russian    
+      - Пеереключаем язык на Russian    
     expected-result: |
       Интерфейс и карточки товара переведены на русский язык.
     actual-result: |
@@ -35,7 +35,7 @@ bugreports:
       Google Chrome	115.0.5790.171 (Официальная сборка) (64 бит)
       ОС Windows 10 Pro   22H2;  Сборка ОС  19045.2006
     steps-to-reproduce: |
-      1. Включаем мобильную версию сайта   
+      - Включаем мобильную версию сайта   
     expected-result: |
       Корректное отображение сайта
     actual-result: |
